@@ -1,0 +1,30 @@
+{
+    "name": "bootstrap/skydash",
+    "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
+    "keywords": [
+      "css",
+      "js",
+      "sass",
+      "mobile-first",
+      "responsive",
+      "front-end",
+      "framework",
+      "web",
+      "skydash-admin"
+    ],
+    "homepage": "https://dev.adsite.id/",
+    "authors": [
+      {
+        "name": "fauzancaren",
+        "email": "fauzancaren@gmail.com"
+      }
+    ],
+    "support": {
+      "issues": "https://dev.adsite.id/issue"
+    },
+    "license": "MIT",
+    "replace": {
+      "twitter/bootstrap": "self.version"
+    }
+  }
+  
