@@ -22,10 +22,7 @@
     "support": {
       "issues": "https://dev.adsite.id/issue"
     },
-    "license": "MIT",
-    "replace": {
-      "twitter/bootstrap": "self.version"
-    },
+    "license": "MIT", 
     "require": {
         "php": ">=5.5"
     },
